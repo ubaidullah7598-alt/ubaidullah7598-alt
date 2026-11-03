@@ -85,25 +85,7 @@ workflows, computer vision, audio preprocessing, and model fine-tuning.
                                       tools, APIs, service integration
   -----------------------------------------------------------------------
 
-## 🧰 Languages, Frameworks & Tools
 
-### Programming
-
-```{=html}
-<p>
-```
-`<img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux" alt="Python, Git, GitHub, VS Code and Linux" />`{=html}
-```{=html}
-</p>
-```
-### Machine Learning, Deep Learning & Data
-
-```{=html}
-<p>
-```
-`<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="PyTorch, TensorFlow and OpenCV" />`{=html}
-```{=html}
-</p>
 ```
 -   **ML and data:** Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn
 -   **Deep learning:** PyTorch, TensorFlow

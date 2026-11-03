@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # Hi, I'm Ubaid Ullah 👋
 
 ### AI / ML Engineer \| Generative AI \| Agentic AI \| Computer Vision

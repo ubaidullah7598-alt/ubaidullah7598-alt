@@ -1,5 +1,5 @@
 
-# Hi, I'm Ubaid Ullah 👋
+# Ubaid Ullah 
 
 ### AI / ML Engineer \| Generative AI \| Agentic AI \| Computer Vision
 
